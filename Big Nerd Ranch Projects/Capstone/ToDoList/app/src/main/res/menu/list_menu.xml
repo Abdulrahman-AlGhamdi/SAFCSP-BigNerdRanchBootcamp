@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/list_navigation_icon"
+        android:icon="@drawable/navigation_icon"
+        android:title="@string/sort_amp_filter"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/list_add_icon"
+        android:icon="@drawable/add_icon"
+        android:title="@string/add_task"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/list_delete_icon"
+        android:icon="@drawable/delete_icon"
+        android:title="@string/delete_all_tasks"
+        app:showAsAction="ifRoom" />
+</menu>
