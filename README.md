@@ -16,6 +16,7 @@ Android Projects
 * BeatBox
 * NerdMart
 * NerdFinder
+* TechMarket
 
 Kotlin Projects
 * Kotlin Assignment
