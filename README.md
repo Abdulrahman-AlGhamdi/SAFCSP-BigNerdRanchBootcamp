@@ -6,11 +6,14 @@ All the applications and capstone projects that I have created for the Big Nerd 
 
 Android Projects
 * GeoQuiz
+* CriminalIntent
 
-## License
+Kotlin Projects
 * Kotlin Assignment
 * samodelkin
 * gameDataApi
+
+## License
 
 ```
 Copyright (C) 2021 Abdulrahman Al-Ghamdi
