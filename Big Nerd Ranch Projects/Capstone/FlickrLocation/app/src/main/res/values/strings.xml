@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlickrLocation</string>
+    <string name="image_location">Image Location</string>
+    <string name="favorite">Favorite</string>
+    <string name="explore">Explore</string>
+    <string name="map">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDJfZ6zQ7TL2yUjlAe8fL1GQFlEnPL9cFw</string>
+    <string name="check_your_connection">Check Your Connection</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="photo_successfully_deleted">Photo Successfully Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all_the_photos">Delete All The Photos?</string>
+    <string name="successfully_removed_from_favorite">Successfully Removed From Favorite</string>
+    <string name="successfully_added_to_library">Successfully Added To Favorite</string>
+</resources>
