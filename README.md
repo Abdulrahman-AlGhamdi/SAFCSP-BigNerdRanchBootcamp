@@ -9,7 +9,8 @@ Android Projects
 
 ## License
 * Kotlin Assignment
-* Samodelkin
+* samodelkin
+* gameDataApi
 
 ```
 Copyright (C) 2021 Abdulrahman Al-Ghamdi

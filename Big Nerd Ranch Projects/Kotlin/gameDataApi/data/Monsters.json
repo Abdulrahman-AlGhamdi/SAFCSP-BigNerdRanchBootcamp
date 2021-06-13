@@ -1,0 +1,24 @@
+{
+    "Monster": {
+        "Dragon": {
+            "ID": "1",
+            "Name": "Dragon",
+            "Description": "Hardened-Body Monster"
+        },
+        "Orc": {
+            "ID": "2",
+            "Name": "Orc",
+            "Description": "Friendly-Looking Monster"
+        },
+        "Giant": {
+            "ID": "3",
+            "Name": "Giant",
+            "Description": "Creepy-Huge Monster"
+        },
+        "Vampire": {
+            "ID": "4",
+            "Name": "Orc",
+            "Description": "Deadly-Poisoned Monster"
+        }
+    }
+}
