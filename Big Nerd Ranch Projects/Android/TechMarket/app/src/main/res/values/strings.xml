@@ -1,0 +1,34 @@
+<resources>
+    // Application name
+    <string name="app_name">TechMarket</string>
+
+    // Buttons names
+    <string name="add_new_product">اضف منتج جديد</string>
+    <string name="headphones">سماعات</string>
+    <string name="games">العاب</string>
+    <string name="screens">شاشات</string>
+    <string name="computer">كمبيوتر</string>
+    <string name="phone">جوالات</string>
+    <string name="title">العنوان</string>
+    <string name="price">السعر</string>
+    <string name="description">الوصف</string>
+    <string name="add_post">إضافة المنتج</string>
+    <string name="pick_images">اختر الصور</string>
+    <string name="must_add_title">يجب وضع العنوان</string>
+    <string name="must_add_price">يجب اضافة السعر</string>
+    <string name="must_pick_images">يجب اختيار الصور</string>
+    <string name="previous">السابق</string>
+    <string name="next">التالي</string>
+    <string name="cameras">كاميرات</string>
+    <string name="tech_market">Tech Market</string>
+    <string name="category"><u>الفئات</u></string>
+    <string name="market">السوق</string>
+    <string name="search">بحث</string>
+    <string name="uploading">رفع…</string>
+    <string name="retry">إعادة الرفع</string>
+    <string name="upload_failed">فشل الرفع</string>
+    <string name="cancel">إلغاء</string>
+    <string name="promotions"><u>العروض</u></string>
+    <string name="brands"><u>الماركات</u></string>
+    <string name="cart">السلة</string>
+</resources>
