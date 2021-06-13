@@ -7,6 +7,7 @@ All the applications and capstone projects that I have created for the Big Nerd 
 Capstone
 * ToDoList
 * FlickrLocation
+* RestaLoca
 
 Android Projects
 * GeoQuiz

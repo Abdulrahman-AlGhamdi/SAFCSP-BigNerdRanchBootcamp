@@ -1,0 +1,72 @@
+<resources>
+    // App name
+    <string name="app_name" translatable="false">RestaLoca</string>
+
+    // On boarding title and description
+    <string name="pager_one_title" >Find Food You Love</string>
+    <string name="pager_one_description">Did you get bored from the food you eat everyday? Discover the best restaurants food around you and over the world</string>
+    <string name="pager_two_title">Live Tracking</string>
+    <string name="pager_two_description">Real time tracking of the weather to reserve the appointment you would like to go for your preferred restaurant</string>
+    <string name="pager_three_title">Go Now</string>
+    <string name="pager_three_description">Nothing better than best whether with the meal you like</string>
+    <string name="finish">Finish</string>
+
+    // Google maps key
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAAcaPSyqOZqf1h_knvTF74lPPJoC1TlKE</string>
+
+    // Business type
+    <string name="restaurant" translatable="false">Restaurant</string>
+    <string name="coffee" translatable="false">Coffee</string>
+
+    // Week days
+    <string name="monday" translatable="false">Monday</string>
+    <string name="tuesday" translatable="false">Tuesday</string>
+    <string name="wednesday" translatable="false">Wednesday</string>
+    <string name="thursday" translatable="false">Thursday</string>
+    <string name="friday" translatable="false">Friday</string>
+    <string name="saturday" translatable="false">Saturday</string>
+    <string name="sunday" translatable="false">Sunday</string>
+
+    // Prices
+    <string name="inexpensive" translatable="false">Inexpensive</string>
+    <string name="moderately_priced" translatable="false">Moderately Priced</string>
+    <string name="expensive" translatable="false">Expensive</string>
+    <string name="highly_expensive" translatable="false">Highly Expensive</string>
+
+    // Bottom navigation
+    <string name="recent_search">Recent Search</string>
+    <string name="map">Map</string>
+    <string name="reservation">Reservations</string>
+
+    // Details tabs
+    <string name="info" >Info</string>
+    <string name="reviews">Reviews</string>
+    <string name="weather">Weather</string>
+
+    // App strings
+    <string name="location">Location</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="prices">Prices</string>
+    <string name="status">Status</string>
+    <string name="read_more">Read more…</string>
+    <string name="address">Address</string>
+    <string name="search">Search</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="reserve">Reserve</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="description">Description</string>
+    <string name="note">Note</string>
+    <string name="closed" translatable="false">Closed</string>
+    <string name="open" translatable="false">Open</string>
+    <string name="not_available" translatable="false">Not available</string>
+
+    // Snack bar
+    <string name="successfully_deleted">Successfully Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="empty_reservation">You can make a day plan by selecting the business you want and RESERVE an appointment</string>
+    <string name="empty_recent_search">Try search in the map to see the latest search here, JUST try it out…</string>
+    <string name="must_write_note">You must write a note</string>
+    <string name="must_pick_date">You must pick a date</string>
+    <string name="filter_by">Filter by:</string>
+    <string name="check_your_connection">Check Your Connection</string>
+</resources>
