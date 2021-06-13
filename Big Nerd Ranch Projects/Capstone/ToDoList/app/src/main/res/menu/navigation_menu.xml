@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/sort_by">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/id_sort"
+                    android:title="@string/task_id" />
+                <item
+                    android:id="@+id/time_passed_sort"
+                    android:title="@string/time_passed" />
+                <item
+                    android:id="@+id/created_time"
+                    android:title="@string/created_time" />
+                <item
+                    android:id="@+id/completed_sort"
+                    android:title="@string/task_completed" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/filter_by">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/completed_filter"
+                    android:title="@string/completed" />
+                <item
+                    android:id="@+id/not_completed_filter"
+                    android:title="@string/not_completed" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

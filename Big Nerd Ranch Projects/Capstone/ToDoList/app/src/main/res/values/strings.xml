@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="delete_all_tasks">Delete All Tasks</string>
+    <string name="no_tasks_to_do_add_one">No tasks to do, Add one…</string>
+    <string name="task_id">Task ID</string>
+    <string name="created_time">Created Time</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="sort_by">Sort by</string>
+    <string name="filter_by">Filter by</string>
+    <string name="sort_amp_filter"><![CDATA[Sort & Filter]]></string>
+    <string name="task_description">Task Description:</string>
+    <string name="pick_a_date">Pick a Date</string>
+    <string name="date_not_picked_up">Date (not picked up)</string>
+    <string name="pick_a_time">Pick a Time</string>
+    <string name="time_not_picked_up">Time (not picked up)</string>
+    <string name="completed">Completed</string>
+    <string name="task_title">Task Title:</string>
+    <string name="not_completed">Not Completed</string>
+    <string name="time_passed">Time Passed</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description_for_the_task">Description for the Task</string>
+</resources>
