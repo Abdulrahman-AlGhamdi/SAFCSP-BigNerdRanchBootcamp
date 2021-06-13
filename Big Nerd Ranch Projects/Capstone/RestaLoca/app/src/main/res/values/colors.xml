@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Primary Colors
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">#4c0000</color>
+    <color name="colorAccent">#b14d4d</color>
+
+    // Application Colors
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#7d1e25</color>
+    <color name="black">#000000</color>
+    <color name="gray">#333333</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="light_yellow">#FFEB3B</color>
+    <color name="dark_yellow">#FFFFC107</color>
+    <color name="orange">#FFEB3B</color>
+    <color name="transparent">#00000000</color>
+</resources>

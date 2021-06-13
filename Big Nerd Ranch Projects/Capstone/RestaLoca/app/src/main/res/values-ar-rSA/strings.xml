@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestaLoca</string>
+
+    // On boarding title and description
+    <string name="pager_one_title">الأكل اللي يعجبك</string>
+    <string name="pager_one_description">هل مللت من الأكل اللي تاكله كل يوم؟ إكتشف أفضل المطاعم والوجبات اللذيذة حولك وحول العالم</string>
+    <string name="pager_two_title">تتبع مباشر</string>
+    <string name="pager_two_description">تتبع مباشر للجو والطقس لحجز موعدك المناسب للذهاب فيه الى مطعمك المفضل</string>
+    <string name="pager_three_title">إذهب الآن</string>
+    <string name="pager_three_description">ما فيه أفضل من انك تاكل وجبتك المفضلة في الجو المناسب لك</string>
+    <string name="finish">إنهاء</string>
+
+    // Bottom navigation
+    <string name="recent_search">البحت الأخير</string>
+    <string name="map">الخريطة</string>
+    <string name="reservation">الحجوزات</string>
+
+    // Details tabs
+    <string name="info" >معلومات</string>
+    <string name="reviews">مراجعات</string>
+    <string name="weather">الطقس</string>
+
+    // App strings
+    <string name="location">الموقع</string>
+    <string name="phone_number">رقم الجوال</string>
+    <string name="prices">الأسعار</string>
+    <string name="status">الحالة</string>
+    <string name="read_more">قرائة المزيد…</string>
+    <string name="address">العنوان</string>
+    <string name="search">بحث</string>
+    <string name="pick_date">اختر موعد</string>
+    <string name="reserve">حجز</string>
+    <string name="pick_color">اختر لون</string>
+    <string name="description">الوصف</string>
+    <string name="note">ملاحظة</string>
+
+    // Snack bar
+    <string name="successfully_deleted">تم الحذف بنجاح</string>
+    <string name="undo">تراجع</string>
+    <string name="empty_reservation">يمكنك عمل خطة يومية عن طريق تحديد المطعم الذي تريده وحجز موعد</string>
+    <string name="empty_recent_search">جرب البحث في الخريطة لمشاهدة آخر بحث هنا ، فقط جربه…</string>
+    <string name="must_write_note">يجب أن تكتب ملاحظة</string>
+    <string name="must_pick_date">يجب عليك اختيار تاريخ</string>
+    <string name="filter_by">ترتيب:</string>
+    <string name="check_your_connection">تحقق من اتصالك</string>
+</resources>
