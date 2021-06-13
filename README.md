@@ -8,6 +8,8 @@ Android Projects
 * GeoQuiz
 
 ## License
+* Kotlin Assignment
+* Samodelkin
 
 ```
 Copyright (C) 2021 Abdulrahman Al-Ghamdi
