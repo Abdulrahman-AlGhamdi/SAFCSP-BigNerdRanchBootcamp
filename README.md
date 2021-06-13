@@ -13,6 +13,7 @@ Android Projects
 * PhotoGallery
 * BeatBox
 * NerdMart
+* NerdFinder
 
 Kotlin Projects
 * Kotlin Assignment
