@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="productViewModel"
+            type="com.bignerdranch.android.nerdmart.viewmodel.ProductViewModel" />
+
+        <variable
+            name="buyButtonClickListener"
+            type="android.view.View.OnClickListener" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@{productViewModel.rowColor}">
+
+        <TextView
+            android:id="@+id/view_product_row_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/view_product_row_price_textview"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintHorizontal_weight="4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:text="@{productViewModel.title}"
+            tools:text="product title" />
+
+        <TextView
+            android:id="@+id/view_product_row_price_textview"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:paddingEnd="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/view_product_row_qty_textview"
+            app:layout_constraintHorizontal_weight="1"
+            app:layout_constraintStart_toEndOf="@id/view_product_row_title"
+            app:layout_constraintTop_toTopOf="parent"
+            android:text="@{productViewModel.displayPrice}"
+            tools:text="$12.99" />
+
+        <TextView
+            android:id="@+id/view_product_row_qty_textview"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:paddingEnd="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/view_product_row_buy_button"
+            app:layout_constraintHorizontal_weight="1"
+            app:layout_constraintStart_toEndOf="@id/view_product_row_price_textview"
+            app:layout_constraintTop_toTopOf="parent"
+            android:text="@{productViewModel.productQuantityDisplay}"
+            tools:text="3" />
+
+        <Button
+            android:id="@+id/view_product_row_buy_button"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:text="@string/buy_button_text"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/view_product_row_qty_textview"
+            app:layout_constraintTop_toTopOf="parent"
+            app:onClickListener="@{buyButtonClickListener}" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

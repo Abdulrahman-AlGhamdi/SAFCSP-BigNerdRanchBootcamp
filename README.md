@@ -12,6 +12,7 @@ Android Projects
 * CriminalIntent
 * PhotoGallery
 * BeatBox
+* NerdMart
 
 Kotlin Projects
 * Kotlin Assignment
