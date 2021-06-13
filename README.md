@@ -11,6 +11,7 @@ Android Projects
 * GeoQuiz
 * CriminalIntent
 * PhotoGallery
+* BeatBox
 
 Kotlin Projects
 * Kotlin Assignment
